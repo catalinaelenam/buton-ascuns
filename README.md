@@ -1,0 +1,1 @@
+Here I created 3 buttons of which only one of them randomly displays the message "castigator" on click (on a page refresh), and the other ones "necastigator".
